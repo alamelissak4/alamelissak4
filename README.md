@@ -2,4 +2,4 @@
 - 👀 I’m interested in a lot of different things, but the top ones are coding, gaming, and plants!
 - 🌱 I’m currently learning Java, HTML and CSS
 - 📫 How to reach me through email: alamelissak4@gmail.com
-- Check out my resume! https://alamelissak4.github.io/
+- Check out my website! https://alamelissak4.github.io/my-website/
